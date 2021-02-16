@@ -1,5 +1,5 @@
 # Chemical-Equation-Balancer
-This is a code that was made for a homework assignment for CS 4630 at Bowling Green State University by Colton Barger.
+This is a code that was made for a homework assignment for CS 4630 at Bowling Green State University by Colton Barger. This is one of my first projects focusing on GUIs, so the code may be highly unoptimized or undesirable by many standards.
 
 This program allows the user to select their own text document which should contain a list of unbalanced chemical equations. The program balances all of the equations, and allows the user to do stoichiometry calculations (either in grams or in moles). An example text document containing unbalanced chemical equations will look like:
 
